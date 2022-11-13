@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "6efae71429d80bf6",
+    "type": "split",
+    "children": [
+      {
+        "id": "2dba23c073bf32d7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe1b965107e88d42",
+            "type": "leaf",
+            "state": {
+              "type": "pdf-annotator",
+              "state": {
+                "file": "Neuro MCQ - Passing FRACP Exam.md"
+              }
+            }
+          },
+          {
+            "id": "c24fbc1c102c4069",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neurology.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ],
+        "currentTab": 1,
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8b8f018b669f8ee1",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a85bec31078177a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3dfb33d173fd880c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c00e485cf3de4700",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c8695b23a4830c25",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "5e633f8b037552e0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b219b8021a664221",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08cc1d8697f1ce82",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Neurology.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "331e0405418516ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Neurology.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd32a74b35a9ee11",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b63ba2c758a6c0e1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Neurology.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c24fbc1c102c4069",
+  "lastOpenFiles": [
+    "Neuro MCQ - Passing FRACP Exam.md",
+    "MCQs.md",
+    "Untitled.pdf",
+    "spherocytes.jpg",
+    "pressie.pdf",
+    "Haem MCQ.md",
+    "Haematology review.md"
+  ]
+}
