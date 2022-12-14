@@ -43,3 +43,9 @@
 ![[Neurology#^question5]]
 
 ![[Neurology#^answer5]]
+
+***
+
+![[Neurology#^question26]]
+
+![[Neurology#^answer26]]

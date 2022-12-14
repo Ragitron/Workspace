@@ -290,13 +290,20 @@
 > Hyperkalaemic and hypokalaemic periodic paralysis are both characterised by an abnormal serum potassium level at the time of symptom occurrence. However, potassium level can be normal between attacks, and thus, measurement of serum potassium during symptoms is the most important next step to take in assessing and treating this patient. Hyperkalaemic periodic paralysis is caused by a defect of a sodium channel (ScN4A), precipitated by rest folloring exercise, stress, potassium administration, and the ingesting of certain foods. Hypokalaemic periodic paralysis is caused by a defect in a calcium channel (CACNL1A3) and is precipitated by the partaking of meals high in carbohydrates, rest following exercise, and excitement. If the potassium level is found to be low during attacks, secondary causes of hypokalaemia (diuretics, hyperaldosteronism, laxatives, etc) or thyrotoxicosis (especially in patients of Asian descent) should be sough. A serum potassium level that is elevated without apparent cause is suggestive of hyperkalaemic periodic paralysis.
 ^answer25
 
-> An 83-year-old woman with a past history of controlled hypertension presents 3$\frac{1}{2}$h following a sudeen onset of left-sided weakness due to an ischaemic stroke. Which one of the following statements is true regarding thrombolysis with tissue plasmingaer ectivator (tPA)?  
+> An 83-year-old woman with a past history of controlled hypertension presents 3$\frac{1}{2}$h following a sudeen onset of left-sided weakness due to an ischaemic stroke. 
+> Which one of the following statements is true regarding thrombolysis with tissue plasmingaer ectivator (tPA)?  
 > 	- A. Patients over the age of 80 years do not benefit from thrombolysis 
 > 	- B. Patients do not benefit from thrombolysis later than 3h from stroke onset  
 > 	- C. Thrombolysis is associated with an increased risk of death and intracerebral haemorrhage in the first week following treatment  
 > 	- D. Aspirin should be administered in conjunction with thrombolysis 
-> 	- Intracerebral haemorrhage occurs in less than 1% of patients treated with thrombolysis
+> 	- E. Intracerebral haemorrhage occurs in less than 1% of patients treated with thrombolysis
 ^question26
+
+> [!C: thrombolysis is associated with an increased risk of death and intracerebral haemorrahage in the first week following treatment]
+> Recent studies and meta-analyses have confirmed that patients older than 80  years achieved similar benefits from thrombolysis to those aged 80 years or younger, particularly when treated early with thrombolysis (Wardlaw et al., 2012).  
+> They have also extended the potential time interval from onset of benefit from  thrombolysis to 4$\frac{1}{2}$h with weaker suggestions of benefit up to 6h in some patients. Thrombolysis is associated with an increased incidence of early mortality mainly due to intracerebral haemorrhage. 
+> Aspirin should not be started within the first 24h of thrombolytic therapy in patients with acute ischaemic stroke, but usually should be started 24 -48h after thrombolytic therapy. Intracerebral haemorrhage is seen in 3 -7% of patients treated with thrombolysis.
+^answer26
 
 > A 36-year-old woman presents with a sudden onset of headache and right-sided hemiparesis. She has no history of cardiovascular or neurological disease and was well and doing yoga daily before the onset of her symptoms. She does not consume alcohol or use illicit drugs. Her examination reveals a blood pressure 130/70 mmHg and pulse of 80 beats/min in sinus rhythm. Her cardiac and respiratory examinations are normal, and her neurological examination confirms a hemiparesis. 
 > Laboratory studies reveal an erythrocyte sedimentation rate of 28mm/h, a normal haematological and biochemical profile, and a negative urinary drug screen. Anti-nuclear antibody (ANA), anti-double-stranded DNA (anti-dsDNA) antibodies and anti-neutrophil cytoplasmic antibodies (ANCAs) are negative. Computed tomography (CT) of her head reveals hypodensity of her left temporal-parietal region consistent with an ischaemic region. What is the next best step for this patient? 
